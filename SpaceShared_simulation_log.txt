@@ -3,7 +3,7 @@
 SIMULATION CONFIGURATION:
 - Scheduling Strategy: SpaceShared
 - Number of VMs: 4
-- Number of Cloudlets: 10
+- Number of Cloudlets: 15
 
 CLOUDLET EXECUTION RESULTS:
 Cloudlet   Status     VM ID           Time            Start Time      Finish Time    
@@ -17,8 +17,13 @@ Cloudlet   Status     VM ID           Time            Start Time      Finish Tim
 7          SUCCESS    1               40.00           120.10          160.10         
 8          SUCCESS    0               40.00           160.10          200.10         
 9          SUCCESS    1               40.00           160.10          200.10         
+10         SUCCESS    0               40.00           200.10          240.10         
+11         SUCCESS    1               40.00           200.10          240.10         
+12         SUCCESS    0               40.00           240.10          280.10         
+13         SUCCESS    1               40.00           240.10          280.10         
+14         SUCCESS    0               40.00           280.10          320.10         
 
 PERFORMANCE SUMMARY:
-- Successful Cloudlets: 10/10
+- Successful Cloudlets: 15/15
 - Average Execution Time: 40.0
-- Makespan (total simulation time): 200.1
+- Makespan (total simulation time): 320.1

@@ -3,22 +3,27 @@
 SIMULATION CONFIGURATION:
 - Scheduling Strategy: TimeShared
 - Number of VMs: 4
-- Number of Cloudlets: 10
+- Number of Cloudlets: 15
 
 CLOUDLET EXECUTION RESULTS:
 Cloudlet   Status     VM ID           Time            Start Time      Finish Time    
-0          SUCCESS    0               200.00          0.10            200.10         
-2          SUCCESS    0               200.00          0.10            200.10         
-4          SUCCESS    0               200.00          0.10            200.10         
-6          SUCCESS    0               200.00          0.10            200.10         
-8          SUCCESS    0               200.00          0.10            200.10         
-1          SUCCESS    1               200.00          0.10            200.10         
-3          SUCCESS    1               200.00          0.10            200.10         
-5          SUCCESS    1               200.00          0.10            200.10         
-7          SUCCESS    1               200.00          0.10            200.10         
-9          SUCCESS    1               200.00          0.10            200.10         
+1          SUCCESS    1               279.99          0.10            280.09         
+3          SUCCESS    1               279.99          0.10            280.09         
+5          SUCCESS    1               279.99          0.10            280.09         
+7          SUCCESS    1               279.99          0.10            280.09         
+9          SUCCESS    1               279.99          0.10            280.09         
+11         SUCCESS    1               279.99          0.10            280.09         
+13         SUCCESS    1               279.99          0.10            280.09         
+0          SUCCESS    0               319.99          0.10            320.09         
+2          SUCCESS    0               319.99          0.10            320.09         
+4          SUCCESS    0               319.99          0.10            320.09         
+6          SUCCESS    0               319.99          0.10            320.09         
+8          SUCCESS    0               319.99          0.10            320.09         
+10         SUCCESS    0               319.99          0.10            320.09         
+12         SUCCESS    0               319.99          0.10            320.09         
+14         SUCCESS    0               319.99          0.10            320.09         
 
 PERFORMANCE SUMMARY:
-- Successful Cloudlets: 10/10
-- Average Execution Time: 200.0
-- Makespan (total simulation time): 200.1
+- Successful Cloudlets: 15/15
+- Average Execution Time: 301.32733333333334
+- Makespan (total simulation time): 320.094

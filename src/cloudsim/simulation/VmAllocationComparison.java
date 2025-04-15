@@ -63,7 +63,7 @@ public class VmAllocationComparison {
      
      // Create Cloudlets
      List<Cloudlet> cloudletList = new ArrayList<>();
-     for (int i = 0; i < 10; i++) {
+     for (int i = 0; i < 15; i++) {
          Cloudlet cloudlet = new Cloudlet(i, 40000, 1, 20, 20,
                  new UtilizationModelFull(), new UtilizationModelFull(), 
                  new UtilizationModelFull());
