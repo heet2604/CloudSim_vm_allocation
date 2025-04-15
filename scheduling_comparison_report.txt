@@ -1,9 +1,9 @@
 ====== VM SCHEDULING STRATEGY COMPARISON REPORT ======
 
 RUNTIME COMPARISON:
-- Time-Shared Simulation Runtime: 0.265 seconds
-- Space-Shared Simulation Runtime: 0.029 seconds
-- Runtime Difference: 0.23600000000000002 seconds
+- Time-Shared Simulation Runtime: 0.243 seconds
+- Space-Shared Simulation Runtime: 0.02 seconds
+- Runtime Difference: 0.223 seconds
 - Faster Strategy: Space-Shared
 
 PERFORMANCE METRICS:
